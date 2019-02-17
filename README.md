@@ -51,7 +51,7 @@ ETHDenver Submission: https://kauri.io/article/d3d2bcaa4e494319943cf7ff4a49e659/
 # A link to all your source code on a public repo (i.e. Github)
 - `http://ethbackpack.herokuapp.com/`
 - `https://github.com/screenpeaker/ETHBackpack/`
-
+- `https://github.com/peterhendrick/ethdenver` [front end code]
 
 ==Techical Stuff==
 
